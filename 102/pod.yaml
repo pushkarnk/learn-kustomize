@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ganga
+spec:
+  containers:
+  - name: server1
+    image: nginx
+

@@ -1,0 +1,4 @@
+namespace: enclave
+
+resources:
+ - pod.yaml

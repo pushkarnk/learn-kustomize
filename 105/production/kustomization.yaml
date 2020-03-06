@@ -1,0 +1,9 @@
+configMapGenerator:
+ - name: dbparams
+   files:
+    - dbips.properties
+    - db.properties
+ - name: flags
+   literals:
+    - DEBUG=false
+    - LOGGING=errorsOnly

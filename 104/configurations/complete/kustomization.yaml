@@ -1,0 +1,7 @@
+namespace: complete-enclave
+
+namePrefix: complete
+
+bases:
+ - ../../base-modules/ui
+ - ../../base-modules/backend

@@ -1,0 +1,12 @@
+namespace: customer-preview
+
+namePrefix: preproduction
+
+commonLabels:
+  tier: backend
+
+commonAnnotations:
+  oncall.slack: '#operations'
+
+resources:
+  - pod.yaml

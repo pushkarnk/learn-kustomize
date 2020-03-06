@@ -1,0 +1,6 @@
+namespace: headless-enclave
+
+namePrefix: headless-
+
+bases:
+ - ../../base-modules/backend

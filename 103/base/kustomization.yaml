@@ -1,0 +1,6 @@
+namePrefix: base-
+
+namespace: dev
+
+resources:
+ - deployment.yaml

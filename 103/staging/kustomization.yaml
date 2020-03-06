@@ -1,0 +1,4 @@
+namePrefix: staging-
+
+bases:
+ - ./../base
